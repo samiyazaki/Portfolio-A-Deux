@@ -7,8 +7,8 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <div className="container-fluid">
-      <h1 className="navbar-brand navTitle mx-auto">The Portfolio of Seiya Miyazaki</h1>
+        <div className="container-fluid d-flex justify-content-between">
+      <h1 className="navbar-brand navTitle">The Portfolio of Seiya Miyazaki</h1>
   <button
   className="navbar-toggler"
   type="button"
