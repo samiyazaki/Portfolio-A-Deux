@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-a-deux/static/css/main.c2cab247.css",
+    "main.js": "/portfolio-a-deux/static/js/main.ea9ddec8.js",
+    "index.html": "/portfolio-a-deux/index.html",
+    "main.c2cab247.css.map": "/portfolio-a-deux/static/css/main.c2cab247.css.map",
+    "main.ea9ddec8.js.map": "/portfolio-a-deux/static/js/main.ea9ddec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.ea9ddec8.js"
+  ]
+}
