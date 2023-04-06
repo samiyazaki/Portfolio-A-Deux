@@ -1,0 +1,30 @@
+.home-container {
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .home-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #4a4a4a;
+  }
+  
+  .home-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+    text-align: justify;
+  }
+
+  .home-photo {
+    width: 35%;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 1.5rem;
+  }

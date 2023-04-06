@@ -1,0 +1,23 @@
+/* ProjectGrid.css */
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .project-grid-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .project-grid-item:hover {
+    background-color: #e0e0e0;
+  }
+  
