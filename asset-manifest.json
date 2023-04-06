@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-a-deux/static/css/main.c2cab247.css",
-    "main.js": "/portfolio-a-deux/static/js/main.ea9ddec8.js",
-    "index.html": "/portfolio-a-deux/index.html",
-    "main.c2cab247.css.map": "/portfolio-a-deux/static/css/main.c2cab247.css.map",
-    "main.ea9ddec8.js.map": "/portfolio-a-deux/static/js/main.ea9ddec8.js.map"
+    "main.css": "/Portfolio-A-Deux/static/css/main.2dd9c654.css",
+    "main.js": "/Portfolio-A-Deux/static/js/main.13153a0c.js",
+    "static/media/kimono-fabric-6080927.png": "/Portfolio-A-Deux/static/media/kimono-fabric-6080927.a46656de38df1ee209fb.png",
+    "static/media/portfolio photo.jpg": "/Portfolio-A-Deux/static/media/portfolio photo.cc63492cee2eb1885321.jpg",
+    "index.html": "/Portfolio-A-Deux/index.html",
+    "main.2dd9c654.css.map": "/Portfolio-A-Deux/static/css/main.2dd9c654.css.map",
+    "main.13153a0c.js.map": "/Portfolio-A-Deux/static/js/main.13153a0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.ea9ddec8.js"
+    "static/css/main.2dd9c654.css",
+    "static/js/main.13153a0c.js"
   ]
 }
