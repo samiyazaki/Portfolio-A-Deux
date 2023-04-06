@@ -1,0 +1,19 @@
+.blog-container {
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .blog-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-posts {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
