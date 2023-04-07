@@ -1,6 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState } from 'react';
+import './Contact.css';
 
 export default function Contact() {
   const [name, setName] = useState('');
@@ -19,8 +20,12 @@ export default function Contact() {
   };
 
   return (
-    <div>
-      <h1>Contact Page</h1>
+    <div className="container mt-5">
+      <div className="row">
+        <div className="col-md-8 mx-auto contact-container">
+      <h1 className="contact-title">Contact Page</h1>
+      <div className="row">
+        <div className="col-md-8 mx-auto">
      <form onSubmit={handleSubmit}>
       <div className="mb-3">
         <label htmlFor="name" className="form-label">
@@ -32,6 +37,7 @@ export default function Contact() {
     id="name"
     value={name}
     onChange={(e) => setName(e.target.value)}
+    required
     />
     </div>
     <div className="mb-3">
@@ -44,6 +50,8 @@ export default function Contact() {
     id="email"
     value={email}
     onChange={(e) => setEmail(e.target.value)}
+    pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-zA-Z]{2,}$"
+    title="Please enter a valid email address."
     required
     />
     </div>
@@ -64,6 +72,10 @@ export default function Contact() {
     Submit
     </button>
      </form>
+    </div>
+    </div>
+    </div>
+    </div>
     </div>
   );
 }
