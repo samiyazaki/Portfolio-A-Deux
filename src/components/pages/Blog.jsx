@@ -1,6 +1,7 @@
 import React from 'react';
 import './Blog.css';
 import BlogPost from './BlogPost';
+import Resume from '../../assets/CV.pdf'
 
 export default function Blog() {
  
@@ -24,7 +25,7 @@ export default function Blog() {
     },
     {
       title: 'Click the link below to download my resume',
-      content: <a href={`${process.env.PUBLIC_URL}../../assets/Seiya Resume 2023.PDF`} download>
+      content: <a href={Resume} download>
       Download Resume
     </a>,
     },
