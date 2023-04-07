@@ -20,4 +20,9 @@
   .project-grid-item:hover {
     background-color: #e0e0e0;
   }
+  .project-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
   
