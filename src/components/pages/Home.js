@@ -6,7 +6,7 @@ import portfolioPhoto from '../../assets/portfolio photo.jpg';
 
 export default function Home() {
   return (
-    <div className="home-container">
+    <div className="home-container  mt-5">
       <h1 className="home-title">console.log('Hello World');</h1>
       <img src={portfolioPhoto} alt="A surprisingly handsome Seiya Miyazaki" className="home-photo" />
     

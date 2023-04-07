@@ -4,7 +4,7 @@ import ProjectGrid from './ProjectGrid';
 
 export default function About() {
   return (
-    <div className="about-container">
+    <div className="about-container  mt-5">
       <h1 className="about-title">Projects</h1>
       <p className="about-text">
         

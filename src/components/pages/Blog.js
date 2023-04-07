@@ -31,7 +31,7 @@ export default function Blog() {
   ];
 
   return (
-    <div className="blog-container">
+    <div className="blog-container  mt-5">
       <h1 className="blog-title">Curriculum Vitae</h1>
       <div className="blog-posts">
         {blogPosts.map((post, index) => (
