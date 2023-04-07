@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.688ee738.css",
-    "main.js": "/static/js/main.624c2cc8.js",
+    "main.js": "/static/js/main.da09f776.js",
     "static/media/Take a Walk.gif": "/static/media/Take a Walk.089a5634c1c9dfce540c.gif",
     "static/media/Weather.gif": "/static/media/Weather.1dc31b94117553f1daf9.gif",
     "static/media/Secular Catechism.gif": "/static/media/Secular Catechism.0d2910b7d0752d7abeb5.gif",
@@ -12,10 +12,10 @@
     "static/media/Wallot logo.png": "/static/media/Wallot logo.06393201f0890b5ff559.png",
     "index.html": "/index.html",
     "main.688ee738.css.map": "/static/css/main.688ee738.css.map",
-    "main.624c2cc8.js.map": "/static/js/main.624c2cc8.js.map"
+    "main.da09f776.js.map": "/static/js/main.da09f776.js.map"
   },
   "entrypoints": [
     "static/css/main.688ee738.css",
-    "static/js/main.624c2cc8.js"
+    "static/js/main.da09f776.js"
   ]
 }
