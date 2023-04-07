@@ -1,0 +1,6 @@
+.duck {
+    width: 50px;
+    height: auto;
+    pointer-events: none;
+    transition: all 0.1s ease;
+}
