@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.19abbf99.css",
-    "main.js": "/static/js/main.e968ab57.js",
-    "static/media/Take a Walk.gif": "/static/media/Take a Walk.089a5634c1c9dfce540c.gif",
-    "static/media/Weather.gif": "/static/media/Weather.1dc31b94117553f1daf9.gif",
-    "static/media/Secular Catechism.gif": "/static/media/Secular Catechism.0d2910b7d0752d7abeb5.gif",
-    "static/media/numbers-psychostick.gif": "/static/media/numbers-psychostick.ada1cc0ccaa675dab479.gif",
-    "static/media/kimono-fabric-6080927.png": "/static/media/kimono-fabric-6080927.a46656de38df1ee209fb.png",
-    "static/media/matilda-chocolate.gif": "/static/media/matilda-chocolate.d69d223564b1fd638b17.gif",
-    "static/media/portfolio photo.jpg": "/static/media/portfolio photo.cc63492cee2eb1885321.jpg",
-    "static/media/dfax9m4-04207846-0abb-49f9-9d0d-8dcc217caa4c.png": "/static/media/dfax9m4-04207846-0abb-49f9-9d0d-8dcc217caa4c.8f910c3c18d111b36d4f.png",
-    "static/media/Wallot logo.png": "/static/media/Wallot logo.06393201f0890b5ff559.png",
-    "index.html": "/index.html",
-    "main.19abbf99.css.map": "/static/css/main.19abbf99.css.map",
-    "main.e968ab57.js.map": "/static/js/main.e968ab57.js.map"
+    "main.css": "/Portfolio-A-Deux/static/css/main.104c875d.css",
+    "main.js": "/Portfolio-A-Deux/static/js/main.0b64fd7c.js",
+    "static/media/Take a Walk.gif": "/Portfolio-A-Deux/static/media/Take a Walk.089a5634c1c9dfce540c.gif",
+    "static/media/Weather.gif": "/Portfolio-A-Deux/static/media/Weather.1dc31b94117553f1daf9.gif",
+    "static/media/Secular Catechism.gif": "/Portfolio-A-Deux/static/media/Secular Catechism.0d2910b7d0752d7abeb5.gif",
+    "static/media/numbers-psychostick.gif": "/Portfolio-A-Deux/static/media/numbers-psychostick.ada1cc0ccaa675dab479.gif",
+    "static/media/kimono-fabric-6080927.png": "/Portfolio-A-Deux/static/media/kimono-fabric-6080927.a46656de38df1ee209fb.png",
+    "static/media/matilda-chocolate.gif": "/Portfolio-A-Deux/static/media/matilda-chocolate.d69d223564b1fd638b17.gif",
+    "static/media/portfolio photo.jpg": "/Portfolio-A-Deux/static/media/portfolio photo.cc63492cee2eb1885321.jpg",
+    "static/media/CV.pdf": "/Portfolio-A-Deux/static/media/CV.2e7a9081e1ff809d8b37.pdf",
+    "static/media/dfax9m4-04207846-0abb-49f9-9d0d-8dcc217caa4c.png": "/Portfolio-A-Deux/static/media/dfax9m4-04207846-0abb-49f9-9d0d-8dcc217caa4c.8f910c3c18d111b36d4f.png",
+    "static/media/Wallot logo.png": "/Portfolio-A-Deux/static/media/Wallot logo.06393201f0890b5ff559.png",
+    "index.html": "/Portfolio-A-Deux/index.html",
+    "main.104c875d.css.map": "/Portfolio-A-Deux/static/css/main.104c875d.css.map",
+    "main.0b64fd7c.js.map": "/Portfolio-A-Deux/static/js/main.0b64fd7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.19abbf99.css",
-    "static/js/main.e968ab57.js"
+    "static/css/main.104c875d.css",
+    "static/js/main.0b64fd7c.js"
   ]
 }
