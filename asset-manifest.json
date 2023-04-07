@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio-A-Deux/static/css/main.2dd9c654.css",
-    "main.js": "/Portfolio-A-Deux/static/js/main.13153a0c.js",
-    "static/media/kimono-fabric-6080927.png": "/Portfolio-A-Deux/static/media/kimono-fabric-6080927.a46656de38df1ee209fb.png",
-    "static/media/portfolio photo.jpg": "/Portfolio-A-Deux/static/media/portfolio photo.cc63492cee2eb1885321.jpg",
-    "index.html": "/Portfolio-A-Deux/index.html",
-    "main.2dd9c654.css.map": "/Portfolio-A-Deux/static/css/main.2dd9c654.css.map",
-    "main.13153a0c.js.map": "/Portfolio-A-Deux/static/js/main.13153a0c.js.map"
+    "main.css": "/static/css/main.66edacbb.css",
+    "main.js": "/static/js/main.2d0a13e5.js",
+    "static/media/Take a Walk.gif": "/static/media/Take a Walk.089a5634c1c9dfce540c.gif",
+    "static/media/Weather.gif": "/static/media/Weather.1dc31b94117553f1daf9.gif",
+    "static/media/kimono-fabric-6080927.png": "/static/media/kimono-fabric-6080927.a46656de38df1ee209fb.png",
+    "static/media/portfolio photo.jpg": "/static/media/portfolio photo.cc63492cee2eb1885321.jpg",
+    "static/media/Wallot logo.png": "/static/media/Wallot logo.06393201f0890b5ff559.png",
+    "index.html": "/index.html",
+    "main.66edacbb.css.map": "/static/css/main.66edacbb.css.map",
+    "main.2d0a13e5.js.map": "/static/js/main.2d0a13e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dd9c654.css",
-    "static/js/main.13153a0c.js"
+    "static/css/main.66edacbb.css",
+    "static/js/main.2d0a13e5.js"
   ]
 }
