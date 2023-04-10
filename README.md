@@ -1,162 +1,38 @@
-# 20 React: React Portfolio
+<h1 align="center">Hi 👋, I'm Seiya Miyazaki</h1>
+<h3 align="center">A student in the Columbia University Full Stack Developer course</h3>
 
-## Your Task
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiyazaki&label=Profile%20views&color=0e75b6&style=flat" alt="samiyazaki" /> </p>
 
-Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiyazaki" alt="samiyazaki" /></a> </p>
 
-Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies. 
+- 🔭 I'm currently working on [Portfolio-A-Deux](https://github.com/samiyazaki/Portfolio-A-Deux)(./assets/portfolio snap.png)
+This is a portfolio site that I built to showcase my work and skills. It is a work in progress, and I will be adding more projects and features as I learn more. The main focus of this portfolio presentation is the utilization of React to create a single page application and deploy it using the gh-pages npm package. The portfolio provides a polished and professional presentation that also links to six of my projects. I added in a smaller version of a footer to prevent overlapping text on the screen and to offere a different feel to the user. The links are to my github, linkedIn and stack overflow accounts. I also included a resume section with my relevant skills and a PDF of my resume as well as a contact section that verifies if the user has included correct information.
 
-You’ll deploy this application to GitHub Pages. Follow the instructions in the Git Guide or consult the [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create a build that you can deploy.
 
-**Important**: Be sure to push your codebase to the default branch in GitHub -- NOT your built and deployed code. Ensure this happens by using the `gh-pages` branch to host the deployed application's build.
+- 🌱 I'm currently learning **MongoDB, Express, React, Node**
 
-## User Story
+- 👯 I’m looking to collaborate on [5-to-1](https://github.com/samiyazaki/5_to_1)
 
-```md
-AS AN employer looking for candidates with experience building single-page applications
-I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position
-```
+- 🤝 I’m looking for help with [Portfolio-in-retrograde](https://github.com/samiyazaki/Portfolio-in-retrograde)
 
-## Acceptance Criteria
+- 👨‍💻 My project is available at [https://samiyazaki.github.io/Portfolio-A-Deux/](https://samiyazaki.github.io/Portfolio-A-Deux/)
 
-```md
-GIVEN a single-page application portfolio for a web developer
-WHEN I load the portfolio
-THEN I am presented with a page containing a header, a section for content, and a footer
-WHEN I view the header
-THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
-WHEN I view the navigation titles
-THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
-WHEN I click on a navigation title
-THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
-WHEN I load the portfolio the first time
-THEN the About Me title and section are selected by default
-WHEN I am presented with the About Me section
-THEN I see a recent photo or avatar of the developer and a short bio about them
-WHEN I am presented with the Portfolio section
-THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories
-WHEN I am presented with the Contact section
-THEN I see a contact form with fields for a name, an email address, and a message
-WHEN I move my cursor out of one of the form fields without entering text
-THEN I receive a notification that this field is required
-WHEN I enter text into the email address field
-THEN I receive a notification if I have entered an invalid email address
-WHEN I am presented with the Resume section
-THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
-WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
-```
+- 📫 How to reach me? **smsmiyazaki@gmail.com**
 
-## Mock-Up
+- ⚡ Fun fact **Q. How did the programmer die in the shower? A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.**
 
-The following animation shows the web application's appearance and functionality:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/seiya-miyazaki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seiya-miyazaki/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sanjamigazy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sanjamigazy/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@sanjamigazy/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sanjamigazy/featured" height="30" width="40" /></a>
+</p>
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-## Getting Started
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiyazaki&show_icons=true&locale=en&layout=compact" alt="samiyazaki" /></p>
 
-You’ll use `create-react-app` to build your portfolio, which will include the following:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiyazaki&show_icons=true&locale=en" alt="samiyazaki" /></p>
 
-* A single `Header` component that appears on multiple pages
-
-* A single `Navigation` component within the header that will be used to conditionally render the different sections of your portfolio
-
-* A single `Project` component that will be used multiple times in the Portfolio section
-
-* A single `Footer` component that appears on multiple pages
-
-**Note**: Because this application doesn’t include a back end or connect to an API, the contact form doesn't need to save this information right now. You'll add back-end functionality in the next few weeks. In the meantime, consider including your email address and phone number on the Contact page.
-
-### Projects
-
-For each project that is featured in your portfolio, include the following:
-
-* An image of the deployed application (either a short animated GIF or screenshot)
-
-* The title of the project
-
-* A link to the deployed application
-
-* A link to the corresponding GitHub repository
-
-### Design
-
-As with the previous portfolio Challenge, remember that "good" design is subjective; however, your site should look polished. Here are a few guidelines on what that means:
-
-* Use mobile-first design.
-
-* Choose a color palette that distinguishes your site from the default Bootstrap theme and unstyled HTML sites. Refer to resources like [Coolors](https://coolors.co/) or another color scheme generator to help you create something that will stand out.
-
-* Ensure that the font size is large enough to read and that the colors don't cause eye strain.
-
-* Consider using animations and React component libraries. Note that this will not affect your grade, but it might impact how potential employers gauge your knowledge.
-
-## Grading Requirements
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
-
-This Challenge is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria plus the following:
-
-    * Application must use React to render content.
-
-    * Application has a single `Header` component that appears on multiple pages, with a `Navigation` component within it that’s used to conditionally render About Me, Portfolio, Contact, and Resume sections.
-
-    * Application has a single `Project` component that’s used multiple times in the Portfolio section.
-
-    * Application has a single `Footer` component that appears on multiple pages.
-
-    * Application must be deployed to GitHub Pages.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* User experience is intuitive and easy to navigate.
-
-* User interface style is clean and polished.
-
-* Application uses a color scheme other than the default Bootstrap color palette.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains high-quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiyazaki&" alt="samiyazaki" /></p>
