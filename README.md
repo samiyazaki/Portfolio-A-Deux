@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiyazaki" alt="samiyazaki" /></a> </p>
 
-- 🔭 I'm currently working on [Portfolio-A-Deux](https://github.com/samiyazaki/Portfolio-A-Deux)(./assets/portfolio snap.png)
+- 🔭 I'm currently working on [Portfolio-A-Deux](https://github.com/samiyazaki/Portfolio-A-Deux)
+<img src= "./assets/portfolio snap.png">
 This is a portfolio site that I built to showcase my work and skills. It is a work in progress, and I will be adding more projects and features as I learn more. The main focus of this portfolio presentation is the utilization of React to create a single page application and deploy it using the gh-pages npm package. The portfolio provides a polished and professional presentation that also links to six of my projects. I added in a smaller version of a footer to prevent overlapping text on the screen and to offere a different feel to the user. The links are to my github, linkedIn and stack overflow accounts. I also included a resume section with my relevant skills and a PDF of my resume as well as a contact section that verifies if the user has included correct information.
 
 
