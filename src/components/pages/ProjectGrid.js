@@ -2,7 +2,7 @@
 import React from "react";
 import "./ProjectGrid.css";
 import Wallot from "../../assets/Wallot logo.png";
-import Walk from "../../assets/Take a Walk.gif";
+import MedHub from "../../assets/MEdHub.png";
 import Weather from "../../assets/Weather.gif";
 import Psycho from "../../assets/numbers-psychostick.gif";
 import Matilda from "../../assets/matilda-chocolate.gif";
@@ -17,11 +17,11 @@ const projectsData = [
   },
 
   {
-    name: "Take A Walk",
-    link: "https://samiyazaki.github.io/Take_A_Walk/",
+    name: "MedHub",
+    link: "https://med-hub.herokuapp.com/",
     secondaryText: "Here's the link to the deployed repo",
-    secondaryLink: "https://github.com/samiyazaki/Take_A_Walk",
-    image: Walk,
+    secondaryLink: "https://github.com/mkaye97/med_supplies",
+    image: MedHub,
   },
 
   {
