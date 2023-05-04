@@ -16,7 +16,7 @@ export default function Contact() {
       origin: { y: 0.6 },
     });
   };
-  
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('Name:', name);
@@ -29,6 +29,7 @@ export default function Contact() {
   };
 
   const handleEmailClick = () => {
+    shootConfetti();
     window.location.href = "mailto:smsmiyazaki@gmail.com";
   };
 
