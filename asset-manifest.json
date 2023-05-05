@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-A-Deux/static/css/main.104c875d.css",
-    "main.js": "/Portfolio-A-Deux/static/js/main.ac138b1c.js",
+    "main.js": "/Portfolio-A-Deux/static/js/main.8760005c.js",
     "static/media/Weather.gif": "/Portfolio-A-Deux/static/media/Weather.1dc31b94117553f1daf9.gif",
     "static/media/Secular Catechism.gif": "/Portfolio-A-Deux/static/media/Secular Catechism.0d2910b7d0752d7abeb5.gif",
     "static/media/numbers-psychostick.gif": "/Portfolio-A-Deux/static/media/numbers-psychostick.ada1cc0ccaa675dab479.gif",
@@ -14,10 +14,10 @@
     "static/media/Wallot logo.png": "/Portfolio-A-Deux/static/media/Wallot logo.06393201f0890b5ff559.png",
     "index.html": "/Portfolio-A-Deux/index.html",
     "main.104c875d.css.map": "/Portfolio-A-Deux/static/css/main.104c875d.css.map",
-    "main.ac138b1c.js.map": "/Portfolio-A-Deux/static/js/main.ac138b1c.js.map"
+    "main.8760005c.js.map": "/Portfolio-A-Deux/static/js/main.8760005c.js.map"
   },
   "entrypoints": [
     "static/css/main.104c875d.css",
-    "static/js/main.ac138b1c.js"
+    "static/js/main.8760005c.js"
   ]
 }
