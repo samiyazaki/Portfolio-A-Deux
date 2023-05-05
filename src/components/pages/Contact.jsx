@@ -36,7 +36,7 @@ export default function Contact() {
   const handleCallClick = () => {
     shootConfetti();
     // Add the desired phone number in the phoneNumber variable
-    const phoneNumber = "123-456-7890";
+    const phoneNumber = "631-381-5947";
     window.location.href = `tel:${phoneNumber}`;
   };
 
