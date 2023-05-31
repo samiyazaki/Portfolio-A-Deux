@@ -1,19 +1,79 @@
 .blog-container {
-    max-width: 90rem;
-    margin: 0 auto;
-    padding: 2rem;
-    background-color: #f8f9fa;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-  }
-  
-  .blog-title {
-    font-size: 32px;
-    margin-bottom: 20px;
-  }
-  
-  .blog-posts {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-gap: 20px;
-  }
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f8f9fa;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.blog-title {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.blog-posts {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 20px;
+}
+
+.interactive-list {
+  list-style-type: none;
+}
+
+.interactive-list li {
+  margin: 10px 0;
+  padding: 10px;
+  transition: background 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+}
+
+.skill-0:hover { background: #ff0000; color: white; }
+.skill-1:hover { background: #ffa500; color: white; }
+.skill-2:hover { background: #ffff00; color: white; }
+.skill-3:hover { background: #008000; color: white; }
+.skill-4:hover { background: #0000ff; color: white; }
+.skill-5:hover { background: #4b0082; color: white; }
+.skill-6:hover { background: #ee82ee; color: white; }
+.skill-7:hover { background: #800080; color: white; }
+.skill-8:hover { background: #f08080; color: white; }
+.skill-9:hover { background: #ffa07a; color: white; }
+.skill-10:hover { background: #20b2aa; color: white; }
+.skill-11:hover { background: #778899; color: white; }
+
+.interactive-list li:hover {
+  background: #007BFF;
+  color: white;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.interactive-list .highlight {
+  background: #28a745;
+  color: white;
+}
+
+.resume-download-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.resume-download-button {
+  display: inline-block;
+  background: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-top: 10px;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.resume-download-button:hover {
+  background: #0056b3;
+  cursor: pointer;
+}
