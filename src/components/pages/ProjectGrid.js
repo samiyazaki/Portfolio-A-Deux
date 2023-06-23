@@ -1,4 +1,3 @@
-// ProjectGrid.js
 import React from "react";
 import "./ProjectGrid.css";
 import Wallot from "../../assets/Wallot logo.png";
